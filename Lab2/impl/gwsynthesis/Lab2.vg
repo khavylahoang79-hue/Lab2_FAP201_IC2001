@@ -1,0 +1,41 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.03 Education"
+//Tue Sep 15 14:48:31 2026
+
+//Source file index table:
+//file0 "\D:/Ki4/FAP/Lab2/src/Lab2.vhd"
+//file1 "\D:/Ki4/FAP/Lab2/src/Lab2tb.vhd"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+E2TpDhJIbdtv6hJ8aOFVEfOISaEW7o6B39jg0dv/kmCqktRNjewmMaGKsZafS9YgCtuGso0AslAE
+fmFiIgzkwDlrGd728scGoQwblM3vcdwJAirIM98zSlutbzkzi1CxTYJqqWw3Q+duUGGDyV68t6IC
+9MMdHTtXwSVU2PyzMOi8I3i4RGnqFjhbvS+3X3k6wmH1qFkLnOLYDbHhSue+BerJ9wFp8zVkph2M
+GTu+urrQc5wJWBoGdqKey+6uNxsC3picBDkj0SPUwlceT7MmP0Mw5KR/aLT2loOh/uj+zieMHK3h
+WWpxzZ1DzSC9jcyUe4yF5cQnCowEULxMWAnVcA==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=576)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+DMB8bR2vhRMsw8gOLDJxbeWqRzOj0A9mTmzNO0RKSbJjn+QXMmhs4rExiTcCdIxoPUAQjqndcs0M
+Jw/xg1/KxkBzNUNB5qlyBBRuS77XSMWaMOGQGKZXk0+PhxFMHGcJ7VbNMoJTJF48Pf+u9bxf7inb
+XnKy5LeHQH98FxjEQnHJX6HVJsfWZwJZuj1OYPd5YQXZnywY4WPD1K5O2F5cZjTj6xBbokGI8ZDb
+1IEjCTPucIRVN3CsS30KXfeZEBz7ghPoeppZXlxJZE1t1lc85CugsH7uw18cz/MMPMOPo3u+SsuR
+J7Z2aAA3fAdFwdJ0pch3Owyhm+V4W4mqSn0Ft5EOg22g/XliwJ/01GdyhN2270hihEWe1SX/Ngjb
+04SmfEANwQepvBdkmLE2txozYjwaqnH5iMOe9ZsA9IgiZstG6JqnCXXWk6YlbvYKjLcpZE+qpVpp
+Hpdy4OfY3tcsTuziEl2clOyVY23F3TIkHjIYWe4tX0O0360iXDHLyi92it2cGXekVVOUEW/xXB6D
+R2Lv3lvgfm8vGu1FDIgRklde6mUm1ggxa/10dpceN95Twc/0Ep0LHJ5HvqMEXKPi5KZ2ee2rVqJ7
+ukPjFpO6MNT3smp71BEdeuDbOyWgaVhur4K/Rl4dVcZMJz4k0kxkvUe5mFjeXCqH8eMRB9K+g8iF
+xwWPjKbiecKJFyoVXccpquDeY/B8KJM1pmLUmYOX30xwxMF4R1lWhH8OiuqmReEtHuCZPEFy3lZE
+wv2kTNCH
+`pragma protect end_protected
